@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 7
+date: 2023-06-13
+img: cabin.png
+alt: image-alt
+project-date: 2023-06
+client: Start Bootstrap
+category: Web Development
+description: 블로그 테마 설정
+---
