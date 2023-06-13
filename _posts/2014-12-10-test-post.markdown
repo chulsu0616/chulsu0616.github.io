@@ -4,8 +4,8 @@ title:  "블로그 테마 적용"
 date:   2023-06-13
 ---
 
-<p class="intro"><span class="dropcap">블</span>
-로그 테마 적용</p>
+<p class="intro"><!--span class="dropcap">블</span-->
+블로그 테마 적용</p>
 
 
 끄적끄적.
