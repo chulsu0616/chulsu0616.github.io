@@ -1,5 +1,5 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS
+title: Chulsu0616
+description: 블로그 블라블라
 
 url: https://long-haul.netlify.app
 paginate_path: "blog/page:num/"
@@ -24,12 +24,6 @@ navigation:
     - title: Contact
       url: /contact
 
-social:
-    github: brianmaierjr
-    twitter: brianmaierjr
-    facebook: brianmaierjr
-    email: brimaidesigns@gmail.com
-    linkedin: brianmaierjr
 
 google_analytics: "UA-58263416-1"
 
