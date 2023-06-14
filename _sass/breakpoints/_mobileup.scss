@@ -13,7 +13,7 @@ html {
 }
 
 body {
-	font-family: $serif;
+	font-family: $dongle;
 	line-height: 1.75;
 	font-size: 112.5%; // 18px base font size
 	color: $black;
@@ -181,7 +181,7 @@ HEADER STYLING
 
 .header {
 	background-color: $background-color;
-	background-image: url("../img/touring.jpg");
+	background-image: url("../img/songji_lake_sky.jpg");
 	background-size: cover;
 	background-position: center center;
 	color: white;
